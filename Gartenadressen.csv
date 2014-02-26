@@ -1,0 +1,93 @@
+Nummer,Titel,"Adresse des Gartens",lat,lon,Entwicklungsstand,Stadtackertyp,ID,Elementtyp,Pfad
+1,Allmende-Kontor,Oderstr,"52,4744444289942","13,4169551970673",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",5,Element,Lists/Projekte
+2,"AWO Begegnungszentrum Generationengarten","Adalbertstr 23a","52,5038591829674","13,4219018356514",Laufend,Generationengarten;#6;#Heilgarten;#21,70,Element,Lists/Projekte
+3,"Bauerngarten Blankenfelde","Blankenfelder Chaussee 5","52,6039099110475","13,3993308171273",Laufend,"Selbst-Ernte-/Krautgarten;#12;#Gemeinschaftsgarten (individuelle Nutzung);#4;#Stadt-Farm/Bauernhof;#14",31,Element,Lists/Projekte
+4,"Bauerngarten Havelmathen","Kladower Damm 57","52,4771597548594","13,1807844047546",Laufend,"Selbst-Ernte-/Krautgarten;#12;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Stadt-Farm/Bauernhof;#14",29,Element,Lists/Projekte
+5,"Begegnungsstätte Falckensteinstraße Generationengarten ","Falckensteinstr 6","52,49955","13,44256",Laufend,Generationengarten;#6,71,Element,Lists/Projekte
+6,"Berolina Generationengarten","Neue Jakobstr 30","52,5098110454899","13,4137921276474",Laufend,Generationengarten;#6;#Mietergemeinschaftsgarten;#24,317,Element,Lists/Projekte
+7,"Bohnen für die Marie","Marienburger Str 41-46","52,5351701148973","13,4242130944427",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",40,Element,Lists/Projekte
+8,"Boseclub Generationengarten ","Bosestr 6","52,4629582048925","13,3787301379593",Laufend,Generationengarten;#6,72,Element,Lists/Projekte
+9,"Bunte Beete","Zeughofstr 24","52,501723","13,4355626",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Gemeinschaftsgarten (individuelle Nutzung);#4",13,Element,Lists/Projekte
+10,"Bunter Garten Buchholz","Aubertstr 1","52,6084526101689","13,4166387140862",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Gemeinschaftsgarten (individuelle Nutzung);#4",26,Element,Lists/Projekte
+11,"Bürgergarten Helle Oase","Tangermünder Str 127-129","52,5383400329901","13,609103877385",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Bildungs-/Lehrgarten;#22;#Generationengarten;#6",306,Element,Lists/Projekte
+12,"Bürgergarten im Stadtgarten Moabit","Siemensstr 27","52,5335680316403","13,3361509931847",,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Interkultureller Garten;#8",328,Element,Lists/Projekte
+13,"Bürgergarten Laskerwiese","Laskerstr 8","52,501577","13,4657391",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",11,Element,Lists/Projekte
+14,"Datscha, Interkultureller Garten Altglienicke","Anne-Frank Str","52,4077026636469","13,5391576322937",Laufend,"Interkultureller Garten;#8",10,Element,Lists/Projekte
+15,"Domäne Dahlem","Königin Luise Str 49","52,460420366312","13,2898009509262",Laufend,Stadt-Farm/Bauernhof;#14;#Bildungs-/Lehrgarten;#22,47,Element,Lists/Projekte
+16,"ECF Container- & Stadtfarm","Bessemerstr 2-14","52,4666120556472","13,3639986958785",Laufend,"Dachgarten/-farm;#2;#Mobiler Garten (z. B. Containergarten);#19",59,Element,Lists/Projekte
+17,"Familiengarten Kotti e.V.","Oranienstr 34","52,5018226398928","13,4182841037048",Laufend,Generationengarten;#6,73,Element,Lists/Projekte
+18,"FARBFELDER-Projekt ",DGZ-Ring,"52,5580314702876","13,43960102314",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",57,Element,Lists/Projekte
+19,"G13 Familienurwald, Gemeinschaftsgarten ","Glogauer Str 13","52,4924841655233","13,436087074205",Geplant,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Gemeinschaftsgarten (individuelle Nutzung);#4;#Generationengarten;#6;#Interkultureller Garten;#8;#Jugend - / Kinder-Garten;#33",329,Element,Lists/Projekte
+20,"Garten der Poesie","Kirchgasse 5","52,4753914532933","13,4454240601188",Abgebrochen,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Gemeinschaftsgarten (individuelle Nutzung);#4;#Interkultureller Garten;#8",36,Element,Lists/Projekte
+21,"Gartenarbeitsschule Pankow","Galenusstr 51","52,5815","13,42657",Laufend,"Schulgarten (allg. Schulbildung);#16;#Bildungs-/Lehrgarten;#22",79,Element,Lists/Projekte
+22,"Garteninitiative »Wir ernten, was wir säen«","Wiecker Str 8-10","52,5686330754756","13,4959042736801",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",56,Element,Lists/Projekte
+23,"Gemeinschaftsgarten am Burbacher Weg","Burbacher Weg 2","52,5468771481379","13,1777891851807",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",27,Element,Lists/Projekte
+24,"Generationengarten Wrangelkiez","Falckensteinstr 6","52,49955","13,44256",Laufend,Generationengarten;#6,266,Element,Lists/Projekte
+25,"Grabelandparzellen Oberweißbacher Straße","Oberweißbacher Str 12/14","52,5573964268087","13,5731637890244",Laufend,Mietergemeinschaftsgarten;#24;#Kleingarten/Schrebergarten;#10,69,Element,Lists/Projekte
+26,"Grüne Weiten","Wönnichstr 102-106","52,5017281585655","13,4945406722832",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Mietergemeinschaftsgarten;#24",60,Element,Lists/Projekte
+27,"Himmelbeet – Interkultureller Gemeinschaftsdachgarten","Müllerstr 47","52,5523972371569","13,3481471408616",Geplant,"Dachgarten/-farm;#2;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Gemeinschaftsgarten (individuelle Nutzung);#4",340,Element,Lists/Projekte
+28,"IKG NaturFreundehaus Hermsdorfer Fließtal ","Seebadstr 27","52,6185141747672","13,3255654821396",Abgebrochen,"Interkultureller Garten;#8",67,Element,Lists/Projekte
+29,"Interkulturelle Garten-AG","Mehringdamm 114","52,4866658337289","13,385223151451",Laufend,"Interkultureller Garten;#8",337,Element,Lists/Projekte
+30,"Interkulturelle NaturWerkStadt","Hasenheide 44","52,4901492415328","13,4170275509262",Laufend,"Imkerei;#7;#Jugend - / Kinder-Garten;#33",58,Element,Lists/Projekte
+31,"Interkultureller Bio-Garten","Prinzenstr 1","52,4971037737071","13,4077215631599",Abgeschlossen,"Interkultureller Garten;#8",268,Element,Lists/Projekte
+32,"Interkultureller Garten auf dem Kinderbauernhof im Görlitzer Park","Wiener Str 59b","52,4957523","13,4378234",Laufend,"Interkultureller Garten;#8",15,Element,Lists/Projekte
+33,"Interkultureller Garten City im Familiengarten","Kluckstr 11","52,5041074393815","13,3628169989502",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (individuelle Nutzung);#4",21,Element,Lists/Projekte
+34,"Interkultureller Garten der Generationen (SUZ Mitte)","Seestr 74","52,5559011710599","13,3638523336601",Laufend,"Interkultureller Garten;#8;#Generationengarten;#6",20,Element,Lists/Projekte
+35,"Interkultureller Garten der Künste im Pallaspark Schöneberg","Pallasstr 7","52,4947284411823","13,3584058846558",Laufend,"Gemeinschaftsgarten (individuelle Nutzung);#4",64,Element,Lists/Projekte
+36,"Interkultureller Garten Lichtenberg","Liebenwalder Str 12-18","52,5364398","13,5010002",Laufend,"Interkultureller Garten;#8;#Imkerei;#7;#Weinbau;#27",18,Element,Lists/Projekte
+37,"Interkultureller Garten Marzahn","Golliner Str 8-10","52,5681139025586","13,5809682209015",Laufend,"Interkultureller Garten;#8",19,Element,Lists/Projekte
+38,"Interkultureller Garten Mitte Museum am Gesundbrunnen","Pankstraße 47","52,5511671598351","13,3802600521843",Abgebrochen,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Interkultureller Garten;#8",37,Element,Lists/Projekte
+39,"Interkultureller Garten Oberschöneweide","Kottmeierstr 2","52,4627092210577","13,5244689497375",Laufend,"Interkultureller Garten;#8",24,Element,Lists/Projekte
+40,"Interkultureller Generationengarten Lichtenrade","Blohmstr 71-73","52,3894025082596","13,381055604477",Laufend,"Interkultureller Garten;#8;#Generationengarten;#6",39,Element,Lists/Projekte
+41,"Interkultureller Heilgarten (BZFO)","Turmstraße 21","52,5269285273564","13,3463392256562",Laufend,"Interkultureller Garten;#8;#Heilgarten;#21",22,Element,Lists/Projekte
+42,"Interkultureller Kiez-Garten",Friedrichstr,"52,4999369190649","13,391777772415",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Interkultureller Garten;#8",338,Element,Lists/Projekte
+43,"Interkultureller Nachbarschaftsgarten","Senftenberger Ring 45","52,6053446010196","13,3612015877662",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Interkultureller Garten;#8",327,Element,Lists/Projekte
+44,"Interkultureller Schulgarten Oberschöneweide","Kottmeierstr 2","52,4626830736898","13,5243884834671",Laufend,"Interkultureller Garten;#8;#Schulgarten (allg. Schulbildung);#16",25,Element,Lists/Projekte
+45,"Interkultureller Seniorengarten im MehrGenerationenHaus i.Gr.","Wassertorstr 48","52,5002812986056","13,405461509787",Unklar,"Interkultureller Garten;#8;#Seniorengarten;#20",62,Element,Lists/Projekte
+46,"Jugendfarm Moritzhof","Schwedter Str 90","52,548296","13,4003735",Laufend,Kinderbauernhof;#9,49,Element,Lists/Projekte
+47,"Kids' Garden","Friedelstr 39","52,4920125714627","13,4267985105896",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",33,Element,Lists/Projekte
+48,"Kiezgarten Heinrichtreff","Heinrichstr 32","52,50623","13,50013",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",52,Element,Lists/Projekte
+49,"Kiezgarten Köllnische Vorstadt","Rudower Str 51","52,4397365197933","13,4603862662705",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",41,Element,Lists/Projekte
+50,"Kiezgarten Schliemannstrasse","Schliemannstr 8","52,5418983515158","13,4181425178604",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",35,Element,Lists/Projekte
+51,"Kiezinseln Schöneberg ","Cherusker Str 23a","52,48118","13,35861",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",68,Element,Lists/Projekte
+52,"Kleingartenkolonie Potsdamer Güterbahnhof","Bülowstr 68","52,4966758960629","13,3687491217041",Laufend,"Gemeinschaftsgarten (individuelle Nutzung);#4;#Kleingarten/Schrebergarten;#10;#Interkultureller Garten;#8",326,Element,Lists/Projekte
+53,"Klima-Garten im Kinder- und Jugendklub Maxim","Charlottenburgerstr 117","52,55219","13,44547",Laufend,"Bildungs-/Lehrgarten;#22;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",82,Element,Lists/Projekte
+54,"Krummer Garten Charlottenburg","Krumme Str","52,5152346978265","13,3086989365235",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",63,Element,Lists/Projekte
+55,"Lebens(t)raum Johannisthal Gemeinschaftsgarten ","Weg Am Rundling","52,4388153845417","13,5124200748687",Geplant,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",335,Element,Lists/Projekte
+56,"Lern- und Nachbarschaftsgarten Kottbusser Damm","Kottbusser Damm 80a","52,4917550169943","13,4240785713027",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",61,Element,Lists/Projekte
+57,"Lichtenberger Stadtgarten","Allee der Kosmonauten 23a","52,5261145756128","13,5130832470131",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",48,Element,Lists/Projekte
+58,"Märkisches Grünland","Golliner Str","52,5684329470721","13,5812309550477",Abgebrochen,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",32,Element,Lists/Projekte
+59,Mauergarten,"Lortzing- und Gleimstr","52,5460673478557","13,3999909993752",Geplant,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Generationengarten;#6;#Interkultureller Garten;#8;#Jugend - / Kinder-Garten;#33",312,Element,Lists/Projekte
+60,"meine ernte - Gartenbaubetrieb Vogel","Grüne Trift","52,577766","13,526995",Laufend,Selbst-Ernte-/Krautgarten;#12,50,Element,Lists/Projekte
+61,"meine ernte - Hof Lutz Gericke","Klein-Ziethener-Weg 17","52,4005660057998","13,4768459235954",Laufend,Selbst-Ernte-/Krautgarten;#12,51,Element,Lists/Projekte
+62,"Mietergarten am Auerbacher Ring","Auerbacher Ring","52,5330580373851","13,6007170749382",Unklar,Kleingarten/Schrebergarten;#10,55,Element,Lists/Projekte
+63,"Mittelhof e.V. Generationengarten","Teltower Damm 228","52,4133811","13,2665099",Laufend,Generationengarten;#6;#Heilgarten;#21,74,Element,Lists/Projekte
+64,Mörchenpark,"Holzmarktstr 30","52,5112641","13,4277273",Geplant,,322,Element,Lists/Projekte
+65,"Nachbarschaftsgarten Fürstenwalder Straße","Fürstenwalder Str 30","52,519944290068","13,4311571109756",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (individuelle Nutzung);#4",332,Element,Lists/Projekte
+66,"Nachbarschaftshaus Centrum e.V. Generationengarten","Cuvrystr 13/14","52,49879021348","13,4437725079346",Laufend,Generationengarten;#6;#Heilgarten;#21,75,Element,Lists/Projekte
+67,"Offener Garten im KuBiz Weissensee","Bernkasteler Str 78","52,5571827334388","13,4698054901436",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",34,Element,Lists/Projekte
+68,"Ökogarten am Buschgraben – ein Garten für alle!","Ludwigsfelder Str 30","52,4231837373152","13,2446462294998",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",28,Element,Lists/Projekte
+69,"Paul Gerhard Stift Generationengarten","Müllerstr 56-58","52,5554629232705","13,3480436147499",Laufend,Generationengarten;#6;#Heilgarten;#21,76,Element,Lists/Projekte
+70,"Perivoli – Unser Garten","Koppelweg 102","52,444687","13,416386",Laufend,"Interkultureller Garten;#8",23,Element,Lists/Projekte
+71,"Permakulturgarten Wagendorf Karow","Pankgrafenstr 12d","52,615889208949","13,4524397962952",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",53,Element,Lists/Projekte
+72,"Pestalozzi-Treff Generationengarten","Pestalozzistr 1a","52,510175960196","13,614299528836",Laufend,Generationengarten;#6;#Heilgarten;#21,77,Element,Lists/Projekte
+73,"Prachttomate, Nachbarschaftsgarten ","Bornsdorfer Str. 9-11","52,4768864937035","13,4357072562752",Laufend,"Mobiler Garten (z. B. Containergarten);#19;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",54,Element,Lists/Projekte
+74,Prinzessinnengarten,"Prinzenstr 35-38","52,503034678951","13,4112125289749",Laufend,"Interkultureller Garten;#8",9,Element,Lists/Projekte
+75,Pyramidengarten,"Columbiadamm 120","52,4820499734563","13,4082104293436",Laufend,"Interkultureller Garten;#8",6,Element,Lists/Projekte
+76,"Quartiersgarten Havelspitze in der Spandauer Wasserstadt",Rauchstr,"52,5604968068461","13,221000259169",Abgebrochen,Mietergemeinschaftsgarten;#24,65,Element,Lists/Projekte
+77,"Rosa Rose, Nachbarschaftsgarten ","Jessnerstr 3","52,5132859338978","13,4742347087372",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Interkultureller Garten;#8",7,Element,Lists/Projekte
+78,"Rosenduft,Interkultureller Garten","Möckernstr 105","52,4949150143333","13,3785937936401",Laufend,"Interkultureller Garten;#8",17,Element,Lists/Projekte
+79,"Rübezahl  Gemeinschaftsgarten ",Oderstr,"52,470768283161","13,4182963015747",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",38,Element,Lists/Projekte
+80,"Spiritueller Garten an der Panke","Uferstr 12","52,5508817893576","13,3738047767211",Unklar,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Religiöser Garten;#34",334,Element,Lists/Projekte
+81,Spreefeld/Spreeacker,"Köpenicker Str 48/49","52,5108384830799","13,4247456118477",Geplant,"Bildungs-/Lehrgarten;#22;#Dachgarten/-farm;#2;#Gemeinschaftsgarten (individuelle Nutzung);#4;#Heilgarten;#21;#Imkerei;#7;#Jugend - / Kinder-Garten;#33;#Schulgarten (allg. Schulbildung);#16;#sonstige gebäudeintegrierte Gärten;#13",333,Element,Lists/Projekte
+82,Stadtacker,"Columbiadamm 91","52,4814753779156","13,4024112630211",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",284,Element,Lists/Projekte
+83,Stadtbienenhonig,Ritterstr,"52,5020960240788","13,4064043904907",Laufend,Imkerei;#7,45,Element,Lists/Projekte
+84,"StadtGut Blankenfelde","Hauptstr 30","52,6162859361935","13,3935631190491",Laufend,"Stadt-Farm/Bauernhof;#14;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",42,Element,Lists/Projekte
+85,"Stadtlaube 2.0: Ein Projekt von RESET","Köpenicker Str 47/48","52,5105298471198","13,4254791217041",Geplant,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#x_Sonstiges;#18",324,Element,Lists/Projekte
+86,"Stadtteilgarten Schillerkiez",Oderstr,"52,4772250250878","13,415463888855",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",14,Element,Lists/Projekte
+87,"TDZ Interkultureller Garten Neukölln","Werbellinstr 50","52,4789798020773","13,4311708657456",Abgeschlossen,"Interkultureller Garten;#8",66,Element,Lists/Projekte
+88,"Tessa e.V. Generationengarten",Lipschitzallee,"52,4278932710043","13,4668649570084",Laufend,Generationengarten;#6,78,Element,Lists/Projekte
+89,"Ton Steine Gärten",Bethaniendamm,"52,5059083697783","13,427574635582",Laufend,"Interkultureller Garten;#8;#Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",16,Element,Lists/Projekte
+90,"Wachsen lassen (Familiengarten Mitte)","Kluckstr 11","52,504163468535","13,3622342576027",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5;#Jugend - / Kinder-Garten;#33",321,Element,Lists/Projekte
+91,"Wriezener Freiraumlabor","Helsingforser Str 11-13","52,5099776456387","13,4453558846558",Laufend,"Gemeinschaftsgarten (gemeinschaftliche Nutzung);#5",44,Element,Lists/Projekte
+92,"Wuhlegarten – Interkultureller Garten Köpenick","Cardinalplatz 1c","52,45573","13,571",Laufend,"Interkultureller Garten;#8;#Religiöser Garten;#34",12,Element,Lists/Projekte
